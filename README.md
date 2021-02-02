@@ -35,7 +35,7 @@
   ---
 
   ## **Contributors**
-  Yes. Amanda Weirs was a huge help. I owe her a great debt of gratitude.
+  Yes. Amanda Weihrs was a huge help. I owe her a great debt of gratitude.
 
   --
 
