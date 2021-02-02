@@ -37,12 +37,12 @@
   ## **Contributors**
   Yes. Amanda Weihrs was a huge help. I owe her a great debt of gratitude.
 
-  --
+  ---
 
   ## **Tests**
   Yes
 
-  --
+  ---
 
   ## **Questions**
   If you have any questions, please email me at: kenkanifffromct21@gmail.com
